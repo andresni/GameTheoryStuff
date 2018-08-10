@@ -9,8 +9,3 @@ This is a prisoners dilemma simulation where you can add your own bot strategies
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/andresni/GameTheoryStuff/master?filepath=PDgame.ipynb)
 
-:image:: https://mybinder.org/badge.svg 
-
-:target: https://mybinder.org/v2/gh/andresni/GameTheoryStuff/master?filepath=PDgame.ipynb
-
-https://mybinder.org/v2/gh/andresni/GameTheoryStuff/master?filepath=PDgame.ipynb
