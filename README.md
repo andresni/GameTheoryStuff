@@ -5,4 +5,8 @@ Here be simulators and engines for running game theory games, generating bots, a
 
 ### PDgame
 
-This is a prisoners dilemma simulation where you can add your own bot strategies, and watch them compete against randomized other bots etc. Just open the PDgame.ipynb file.
+This is a prisoners dilemma simulation where you can add your own bot strategies, and watch them compete against randomized other bots etc. To check the live variant through ***Binder***:
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/andresni/GameTheoryStuff/master?filepath=PDgame.ipynb)
+
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/andresni/GameTheoryStuff/master?filepath=PDgame.ipynb
